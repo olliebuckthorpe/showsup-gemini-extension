@@ -1,0 +1,12 @@
+{
+  "name": "showsup",
+  "version": "1.0.0",
+  "description": "Meeting reminders that cut no-shows. See your meetings, check reminder sequences and prepare messages; anything that reaches a prospect waits for your approval.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "showsup": {
+      "httpUrl": "https://api.showsup.ai/mcp",
+      "timeout": 30000
+    }
+  }
+}
